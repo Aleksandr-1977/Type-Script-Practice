@@ -1,14 +1,13 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and
-some ESLint rules.
+Shell integration activated
 
-Currently, two official plugins are available:
+The following extensions have contributed to this terminal's environment:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
-  uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)
-  uses [SWC](https://swc.rs/) for Fast Refresh Установленные библиотеки:
+Git: Enables the following features: git auth provider The following extensions
+want to relaunch the terminal to contribute to its environment:
+
+GitHub Copilot Chat: Enables use of the copilot-debug command in the terminal.
 
 - npm create vite@latest
 - npm install clsx
